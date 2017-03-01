@@ -15,5 +15,6 @@
 strong {font-weight:bold !important;}
 .bold {font-weight:bold !important;}
 .font16 {font-size:16pt;}
-.navbar ul.nav > li > a {text-transform: none;}
+.navbar ul.nav > li > a {text-transform: none;font-weight:bold;}
 .navbar-brand {text-transform: none;}
+.navbar-default .navbar-brand {color:#555;font-weight:bold;}
