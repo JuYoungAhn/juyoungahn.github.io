@@ -1,11 +1,11 @@
 /* your styles go here */
-#about {margin-top:60px;padding-bottom:30px;}
+#about {margin-top:20px;padding-bottom:30px;}
 #career {margin-top:30px;}
 .section {font-size:10pt;}
 #wide_table_wrapper {border:1px dotted #cdcdcd;font-size:10pt;}
 .wide_table {font-size:10pt;}
 .wide_table td {padding:5px;}
-.my-photo {height:220px;}
+
 .period_td {width:230px;}
 .portfolio_img{height:150px;}
 #portfolio {font-size:9pt}
@@ -14,3 +14,4 @@
 .portfolio-description {height:100px;}
 strong {font-weight:bold !important;}
 .bold {font-weight:bold !important;}
+.font16 {font-size:16pt;}
