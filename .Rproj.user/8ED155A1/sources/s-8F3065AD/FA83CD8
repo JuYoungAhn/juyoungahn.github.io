@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1863708126",
+    "hash" : "0",
     "id" : "FA83CD8",
-    "lastKnownWriteTime" : 1724405281,
-    "last_content_update" : 1724405281,
+    "lastKnownWriteTime" : 1724407731,
+    "last_content_update" : 1724407731208,
     "path" : "~/workspace/R/juyoungahn.github.io/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

@@ -2,6 +2,9 @@
 title: "About this blog"
 description: |
   Some additional details about the blog
+categories:
+- Category1
+- Category2
 ---
 
 ```{r setup, include=FALSE}
