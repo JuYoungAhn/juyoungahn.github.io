@@ -1,5 +1,6 @@
 name: "juyoungahn.github.io"
 title: "My Blog"
+theme: theme.css
 description: |
   My Blog
 output_dir: "deepplay"

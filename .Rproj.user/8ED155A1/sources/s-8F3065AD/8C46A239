@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1724406534087.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2100225594",
+    "id" : "8C46A239",
+    "lastKnownWriteTime" : 1724406538,
+    "last_content_update" : 1724406538263,
+    "path" : "~/workspace/R/juyoungahn.github.io/theme.css",
+    "project_path" : "theme.css",
+    "properties" : {
+        "cursorPosition" : "101,1",
+        "scrollLine" : "73",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
