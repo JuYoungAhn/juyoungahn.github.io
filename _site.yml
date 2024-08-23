@@ -1,9 +1,8 @@
 name: "juyoungahn.github.io"
 title: "My Blog"
-theme: theme.css
 description: |
   My Blog
-output_dir: "deepplay"
+output_dir: "."
 navbar:
   right:
     - text: "Home"

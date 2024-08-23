@@ -15,7 +15,6 @@ date: 08-23-2024
 output:
   distill::distill_article:
     self_contained: false
-    theme: theme.css
 ---
 
 ```{r setup, include=FALSE}
