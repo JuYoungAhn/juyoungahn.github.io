@@ -1,5 +1,5 @@
 ---
-title: "Ju Young Ahn"
+title: "My Blogs"
 site: distill::distill_website
 listing: posts
 

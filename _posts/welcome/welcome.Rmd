@@ -2,7 +2,7 @@
 title: "This is my first post!"
 categories: [category1, category2]
 description: |
-  Welcome to my blog!! :)
+  Welcome to my blog!!!! :)
 author:
   - name: Ju Young Ahn
     url: juyoungahn.github.io

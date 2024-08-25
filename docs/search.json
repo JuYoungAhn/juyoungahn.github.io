@@ -6,14 +6,22 @@
       "description": "Some additional details about the blog\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-08-25T16:49:35+09:00"
+      "last_modified": "2024-08-25T17:09:39+09:00"
     },
     {
       "path": "index.html",
-      "title": "Ju Young Ahn",
+      "title": "My Blogs",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-08-25T16:49:36+09:00"
+      "last_modified": "2024-08-25T17:09:39+09:00"
+    },
+    {
+      "path": "packages.html",
+      "title": "R packages",
+      "description": "R packages contributions",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-08-25T17:09:40+09:00"
     }
   ],
   "collections": ["posts/posts.json"]

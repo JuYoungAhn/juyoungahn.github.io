@@ -2,16 +2,18 @@ name: "juyoungahn.github.io"
 title: "Ju Young Ahn"
 description: |
   Ju Young's Personal Blog
+posts:
+  - folder: "_posts"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "R Packages"
+      href: packages.html
     - text: "About"
       href: about.html
 output: distill::distill_article
-posts:
-  - folder: "_posts"
 collections:
   posts:
     categories: true
