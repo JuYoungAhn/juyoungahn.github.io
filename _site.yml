@@ -1,8 +1,8 @@
 name: "juyoungahn.github.io"
-title: "My Blog"
+title: "Ju Young Ahn"
 description: |
-  My Blog
-output_dir: "."
+  Ju Young's Personal Blog
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
@@ -10,6 +10,8 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+posts:
+  - folder: "_posts"
 collections:
   posts:
     categories: true
