@@ -6,14 +6,22 @@
       "description": "Some additional details about the blog\n",
       "author": [],
       "contents": "\n\n\n\n",
+<<<<<<< HEAD
       "last_modified": "2024-08-29T20:15:20+09:00"
+=======
+      "last_modified": "2024-08-25T16:40:35+09:00"
+>>>>>>> 08a8e5532798e70146d8e6ecd5371d6617093602
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Ju Young Ahn",
       "author": [],
       "contents": "\n\n\n\n",
+<<<<<<< HEAD
       "last_modified": "2024-08-29T20:15:20+09:00"
+=======
+      "last_modified": "2024-08-25T16:40:36+09:00"
+>>>>>>> 08a8e5532798e70146d8e6ecd5371d6617093602
     }
   ],
   "collections": ["posts/posts.json"]

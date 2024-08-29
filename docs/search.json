@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-08-29T20:44:10+09:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Blogs",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-08-29T20:44:11+09:00"
+    },
+    {
+      "path": "packages.html",
+      "title": "R packages",
+      "description": "R packages contributions",
+      "author": [],
+      "contents": "\nrollup: A Tidy implementation of grouping sets, rollup and cube, which are extensions of the group_by clause that compute multiple group_by clauses in a single statement.\n\n\n\n",
+      "last_modified": "2024-08-29T20:44:11+09:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

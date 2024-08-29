@@ -1,14 +1,20 @@
 name: "juyoungahn.github.io"
-title: "My Blog"
+title: "Ju Young Ahn"
 description: |
-  My Blog
-output_dir: "."
+  Ju Young's Personal Blog
+posts:
+  - folder: "_posts"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "R Packages"
+      href: packages.html
     - text: "About"
       href: about.html
+    - icon: fa-github fa-lg
+      href: https://github.com/JuYoungAhn
 output: distill::distill_article
 collections:
   posts:

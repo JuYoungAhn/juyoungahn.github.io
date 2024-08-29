@@ -1,18 +1,12 @@
 ---
-title: "Welcome to My Blog"
-categories:
-- Category1
-- Category2
-- Category3
+title: "This is my first post!"
+categories: [category1, category2]
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my blog!!!! :)
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 08-23-2024
+  - name: Ju Young Ahn
+    url: juyoungahn.github.io
+date: 2024-08-26
 output:
   distill::distill_article:
     self_contained: false
@@ -20,9 +14,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
 
 ```
 

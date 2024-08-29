@@ -1,0 +1,12 @@
+---
+title: "R packages"
+description: |
+  R packages contributions
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+- [**`rollup`**](https://juyoungahn.github.io/rollup/): A Tidy implementation of `grouping sets`, `rollup` and `cube`, which are extensions of the `group_by` clause that compute multiple `group_by` clauses in a single statement.
+
