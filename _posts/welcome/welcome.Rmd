@@ -3,6 +3,7 @@ title: "Welcome to My Blog"
 categories:
 - Category1
 - Category2
+- Category3
 description: |
   Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
